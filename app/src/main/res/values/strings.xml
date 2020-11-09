@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">okta_cust_sign_in</string>
+    <string name="fingerprint_type">Fingerprint</string>
+    <string name="unlock_screen_type">Unlock Screen</string>
+    <string name="select_smartlock_type_message">Please select a way to authenticate</string>
+    <string name="setup_lockscreen_info_msg">Secure lock screen isn\'t set up.\nGo to \'Settings -> Security -> Screenlock\' to set up a lock screen</string>
+    <string name="hardware_not_support_fingerprint">Your device does not have a supported fingerprint</string>
+    <string name="fingerprint_not_enrolled">You haven\'t enrolled any fingerprints yet.\nGo to \'Settings -> Security to enroll at least one finger</string>
+    <string name="cancel">Cancel</string>
+    <string name="unlock_screen_title">Confirm credentials</string>
+    <string name="fingerprint_alert_title">Confirm fingerprint to continue</string>
+    <string name="empty_field_error">Field must not be empty</string>
+    <string name="not_handle_message">Something unexpected happened. Status: %s</string>
+
+    <string name="account_lock_out">Your account has been locked</string>
+    <string name="unlock_account_message">Are you want to unlock account?</string>
+    <string name="unlock_account_title">Unlock account</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="welcome_title">Welcome, %s</string>
+
+    <!-- password -->
+    <string name="password_reset_new_hint">New password</string>
+    <string name="password_reset_repeat_hint">Repeat password</string>
+    <string name="password_reset">Reset Password</string>
+    <string name="password_not_equal">Passwords don\'t equal</string>
+    <string name="mfa_require">This action requires MFA. To test this action you can disable MFA in admin panel or implemented MFA verify.</string>
+    <string name="password_reset_successfully">You\'ve reset password successfully</string>
+    <string name="password_reset_login_hint">Enter your login</string>
+    <string name="letter_with_reset_link_success">Letter with reset password link sent on your email: %s</string>
+
+    <string name="answer_title">Answer</string>
+
+</resources>
